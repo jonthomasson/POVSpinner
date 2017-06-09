@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 608_Bearing
+#
+DEF 608_Bearing U 0 40 Y Y 1 F N
+F0 "U" -350 -525 60 H V C CNN
+F1 "608_Bearing" -125 150 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+C -370 -185 75 0 1 0 N
+C -330 -335 75 0 1 0 N
+C -310 -45 75 0 1 0 N
+C -200 -415 75 0 1 0 N
+C -190 15 75 0 1 0 N
+C -150 -200 146 0 1 0 N
+C -150 -200 301 0 1 0 N
+C -50 0 75 0 1 0 N
+C -40 -395 75 0 1 0 N
+C 55 -115 75 0 1 0 N
+C 60 -275 75 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
