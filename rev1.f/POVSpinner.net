@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:/Users/Stache/Documents/KiCad Projects/POVSpinner/rev1.f/POVSpinner.sch")
-    (date "6/9/2017 9:47:09 PM")
+    (date "6/21/2017 9:55:52 PM")
     (tool "Eeschema (2017-01-24 revision 0b6147e)-makepkg")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value Microchip_ATtiny85)
-      (footprint Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm)
+      (footprint Housings_SOIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm)
       (libsource (lib POVSpinner) (part Microchip_ATtiny85))
       (sheetpath (names /) (tstamps /))
       (tstamp 592CE99E))
