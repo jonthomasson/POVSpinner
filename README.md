@@ -1,3 +1,4 @@
+
 # POVSpinner
 A simple POV (persistence of vision) fidget spinner. Made with an AtTiny85, 5 LED's, and 2 CR2032 batteries.
 
@@ -8,3 +9,4 @@ Although the most popular fidget spinners seem to be the ones with 3 sides, for 
 In my original design, I used the popular 608 size bearing. This by far was the bearing of choice it seemed for most fidget spinners. I found though that using this size, left almost no clearance on the sides of the board for traces running to the leds. Ultimately I decided to go instead with the R188 size bearing since, measuring only 12.7mm diameter, it gave me far more clearance to route traces around. I also was able to leave enough clearance around this bearing to hopefully add a cap to make spinning a little easier.
 
 Finally, the ultimate goal of this project was to make something that could inspire fun and learning in this new generation of kids obsessed with fidget spinners. I did this through the use of a simple design, that is both low cost and easy to assemble. This project can be constructed in its entirety in a one off project for as little as $15 total, including the bearings and pcb. All of the components are within the range of anyone to solder. And the schematic and design are easy for anyone to understand.
+![enter image description here](https://lh3.googleusercontent.com/0EhZCIb8eMOouMY1ZfKLcGbeb_fV9nqE4mrQTj9JmGsTw5DzlaMg9Q6RExPFiaqQzlV9sklrkyx0ikSr5trKS2NYGMtvdkyMLcX5nVV-MlTQQvu21Vtg64i0DsllRhLGqkg6-eLTLOF2Xa_xB2fiDoYWx8i1Hs2bXjW43_JdgTwE-7Xy0feQBgv-Q0e6nc-koAfWAL4-FjwAbs2Etn-B-QDZGBlh8KuWzCp5wnqVJtLHrP-_GvsupbHzGGysDfaZC1oPpN9Nf27t-8QvvmYNPJ0dEoqIq2TI0uhHphzOhdYnEf8cIA2Qwo0mujfh2GLpzy5301fGbUvPrI7wAQFYXOzdFkOZlKn0RwtDQdzYab42JzrHPHD1GORhw9U1-jiTsloHcn1MawwRb9Z9KqgK4qx7absY-9I8V9biVjjJPFHjyEDK9avIJRklc-rgqwOudxBE_nVVgP_ipJEOki7lfa1Up5grxYtUtNwlZoFLKW7CF9pWtnrJupM1zuURgYUWHLnG2CtsIKGTUmeLx_eSa6wSLD4DQeNMF4ci26zOTFtQnNlHIdKDA63HuOrIGPfMpmhlqlllEi2CNzWqXfVqvMJJy1KBMVy327KyLA4w=w1223-h688-no)
